@@ -1,0 +1,1000 @@
+1120 Iphjefowiw Qhcvzv Canada 53 MEASLES YES
+1120 Iphjefowiw Qhcvzv Canada 53 MALARIA YES 28-05-2020
+1120 Iphjefowiw Qhcvzv Canada 53 MALARIA YES 15-05-2020
+1120 Iphjefowiw Qhcvzv Canada 53 PLAGUE YES
+2501 Mcjfhdi Ujsluiqnahw Canada 44 SARS-1 NO 12-04-2020
+2501 Mcjfhdi Ujsluiqnahw Canada 44 COVID-19 YES
+5134 Ysnczqjohg Kuqveudizd France 8 CHOLERA NO
+7018 Sweimjoxe Gxrarsh UK 69 EBOLA YES
+266 Rzoiapqkf Qandyzlyuna India 0 PLAGUE YES
+266 Rzoiapqkf Qandyzlyuna India 0 HEPATITIS-A YES
+5143 Gqebtr Mlqzmaj China 45 SYPHILIS NO
+8820 Jdhayug Ldqcmyn Japan 11 SARS-1 YES
+4165 Adi Vmwc India 58 CHLAMYDIA YES
+8498 Okhtu Xlyst UK 65 COVID-19 YES 06-11-2020
+4087 Xdzilkwt Rlyixutg UK 113 COVID-19 NO 26-11-2020
+4087 Xdzilkwt Rlyixutg UK 113 MEASLES YES 29-06-2020
+558 Uwf Tgo Japan 40 FLU YES 22-09-2020
+558 Uwf Tgo Japan 40 MALARIA NO
+558 Uwf Tgo Japan 40 SARS-1 YES
+7350 Mihbqkxqkn Taejrre Italy 63 CHOLERA NO 25-08-2020
+7350 Mihbqkxqkn Taejrre Italy 63 AIDS YES 19-12-2020
+9567 Qgf Ttiwkdj India 41 HEPATITIS-C NO 05-09-2020
+9567 Qgf Ttiwkdj India 41 SARS-1 NO
+461 Pjfauifug Okhbvzf Canada 9 PLAGUE YES 04-10-2020
+9304 Ujmsejc Wdhj USA 92 FLU YES
+2205 Tledjwzzswa Msojzihph India 26 SYPHILIS NO 01-01-2020
+8141 Fviz Gbwplqo Russia 17 HEPATITIS-B NO
+8141 Fviz Gbwplqo Russia 17 FLU NO
+6739 Dif Olu Italy 7 AIDS NO 21-06-2020
+6739 Dif Olu Italy 7 HEPATITIS-A YES
+125 Gzjxqutpfjs Uilukvzfxpni China 13 EBOLA YES
+125 Gzjxqutpfjs Uilukvzfxpni China 13 CHOLERA NO
+9173 Fhrfqzmq Fbsbmadg USA 97 FLU YES
+9173 Fhrfqzmq Fbsbmadg USA 97 PLAGUE NO
+9173 Fhrfqzmq Fbsbmadg USA 97 SARS-1 NO
+4872 Gwpnsorut Ruozyfu India 0 GONORRHOEA YES 11-03-2020
+4872 Gwpnsorut Ruozyfu India 0 HEPATITIS-C NO 20-03-2020
+4872 Gwpnsorut Ruozyfu India 0 POLIO NO 05-03-2020
+4872 Gwpnsorut Ruozyfu India 0 PLAGUE YES 03-06-2020
+8028 Wlzqxeziiv Tkk UK 38 SMALLPOX YES 02-05-2020
+8028 Wlzqxeziiv Tkk UK 38 SARS-1 YES 02-09-2020
+8028 Wlzqxeziiv Tkk UK 38 CHOLERA YES
+8028 Wlzqxeziiv Tkk UK 38 HEPATITIS-C YES
+9239 Znxfzvksejky Wghaedzzths USA 28 CHLAMYDIA YES 14-10-2020
+9239 Znxfzvksejky Wghaedzzths USA 28 EBOLA YES 16-05-2020
+9239 Znxfzvksejky Wghaedzzths USA 28 COVID-19 NO 18-07-2020
+8299 Grbkdl Xbxru Japan 69 CHLAMYDIA NO
+1158 Pfuru Zlicbxlcovij Canada 71 HEPATITIS-C NO 13-09-2020
+1158 Pfuru Zlicbxlcovij Canada 71 FLU YES 26-05-2020
+1158 Pfuru Zlicbxlcovij Canada 71 EBOLA NO 14-05-2020
+1158 Pfuru Zlicbxlcovij Canada 71 HEPATITIS-A NO
+1158 Pfuru Zlicbxlcovij Canada 71 CHLAMYDIA YES
+1158 Pfuru Zlicbxlcovij Canada 71 HEPATITIS-C NO
+1300 Vfutmfnwou Qjlkvpeb Italy 71 CHOLERA YES
+1300 Vfutmfnwou Qjlkvpeb Italy 71 MALARIA YES 07-10-2020
+2591 Vgl Lxu UK 111 HEPATITIS-A NO
+2591 Vgl Lxu UK 111 AIDS YES 12-10-2020
+4376 Cavzwje Dtcopsg USA 44 CHLAMYDIA YES 27-10-2020
+424 Dbrlqjweyv Qvuxvsxbtzu UK 115 CHOLERA NO 16-07-2020
+1547 Hlxcwf Abhfmh India 107 AIDS NO
+1774 Sgwpirduim Mvzhk France 116 CHOLERA NO 27-04-2020
+1774 Sgwpirduim Mvzhk France 116 PLAGUE YES
+9688 Kvqhzbofdphu Zzlydenwlxbg India 19 CHOLERA NO 09-03-2020
+9688 Kvqhzbofdphu Zzlydenwlxbg India 19 GONORRHOEA NO 05-02-2020
+9688 Kvqhzbofdphu Zzlydenwlxbg India 19 H1N1 NO
+4435 Gylgfnjiupm Qbqcgmniao Italy 63 MALARIA YES
+5523 Yise Ywrvaizf France 91 AIDS NO
+3127 Ztqgnm Tfxrfuwpwxkx USA 97 SARS-1 YES
+3127 Ztqgnm Tfxrfuwpwxkx USA 97 COVID-19 YES 05-10-2020
+377 Btxgnddlr Eemh UK 112 POLIO YES
+377 Btxgnddlr Eemh UK 112 HEPATITIS-C YES 13-12-2020
+377 Btxgnddlr Eemh UK 112 H1N1 NO 12-04-2020
+6556 Fstjeyxikg Gnitpuixqk China 74 HEPATITIS-B YES
+6556 Fstjeyxikg Gnitpuixqk China 74 AIDS NO 26-09-2020
+6556 Fstjeyxikg Gnitpuixqk China 74 HEPATITIS-A NO
+6556 Fstjeyxikg Gnitpuixqk China 74 CHOLERA NO 28-09-2020
+6556 Fstjeyxikg Gnitpuixqk China 74 PLAGUE NO
+6556 Fstjeyxikg Gnitpuixqk China 74 SYPHILIS YES 14-07-2020
+3672 Ierxiwzzs Eepn Japan 90 MALARIA NO 05-04-2020
+3672 Ierxiwzzs Eepn Japan 90 FLU YES 09-03-2020
+6893 App Cmj India 53 POLIO NO
+641 Fplzi Tnnucg China 64 PLAGUE YES
+641 Fplzi Tnnucg China 64 FLU YES 10-05-2020
+5135 Uopdj Ycxzhoec UK 4 POLIO NO
+5135 Uopdj Ycxzhoec UK 4 HEPATITIS-B YES 01-04-2020
+962 Cbwhvtl Ktmwwzxeqo France 84 SMALLPOX NO
+962 Cbwhvtl Ktmwwzxeqo France 84 CHLAMYDIA YES 10-09-2020
+411 Ectjenxnfr Rfp UK 0 HEPATITIS-A NO 03-11-2020
+3217 Kjqqnshwjh Pfxxzsvnmsw China 1 MALARIA YES
+3217 Kjqqnshwjh Pfxxzsvnmsw China 1 H1N1 YES
+7457 Rha Aviiucuk India 48 CHOLERA NO
+9023 Udgptd Otlgay Japan 93 H1N1 NO
+4111 Tbshtilaq Klfxik China 55 EBOLA NO
+6044 Frjulwugscz Txpngktdv China 2 POLIO YES
+8471 Ugo Owmqcegutern China 23 HEPATITIS-B YES 07-11-2020
+9842 Kufgvvro Qrejuqjdxe USA 61 PLAGUE YES 16-02-2020
+9842 Kufgvvro Qrejuqjdxe USA 61 HEPATITIS-A NO 04-06-2020
+3675 Bfpgzrusltu Yefkuvbs China 50 EBOLA NO
+3675 Bfpgzrusltu Yefkuvbs China 50 HEPATITIS-B NO
+3675 Bfpgzrusltu Yefkuvbs China 50 MALARIA NO
+347 Bfhlx Ximiuapo Canada 37 POLIO YES
+7987 Iqhqwcwqxo Pksbqzxxfd India 11 COVID-19 YES
+1960 Obpyqwqnx Lnejz China 85 POLIO YES
+1960 Obpyqwqnx Lnejz China 85 FLU NO
+1960 Obpyqwqnx Lnejz China 85 GONORRHOEA YES
+1960 Obpyqwqnx Lnejz China 85 HEPATITIS-A NO 24-10-2020
+4685 Brpoy Wdllvkwn USA 51 COVID-19 NO 22-08-2020
+5756 Pwisex Lwmxwlhlvy Canada 54 MALARIA YES
+5756 Pwisex Lwmxwlhlvy Canada 54 AIDS YES
+5756 Pwisex Lwmxwlhlvy Canada 54 POLIO NO
+5756 Pwisex Lwmxwlhlvy Canada 54 PLAGUE YES 21-05-2020
+5756 Pwisex Lwmxwlhlvy Canada 54 CHLAMYDIA YES 26-07-2020
+5756 Pwisex Lwmxwlhlvy Canada 54 AIDS NO
+5756 Pwisex Lwmxwlhlvy Canada 54 GONORRHOEA YES 12-08-2020
+5160 Uwbxqf Xiuzgbcjdz China 26 POLIO NO
+1196 Fyusdcnsiao Mvr Japan 58 SARS-1 YES
+1196 Fyusdcnsiao Mvr Japan 58 POLIO YES 27-09-2020
+1196 Fyusdcnsiao Mvr Japan 58 SARS-1 NO 01-01-2020
+1196 Fyusdcnsiao Mvr Japan 58 SARS-1 YES
+2119 Jzghp Baziibpbz India 37 EBOLA NO 28-08-2020
+2119 Jzghp Baziibpbz India 37 AIDS NO 16-04-2020
+5519 Avaonl Iyjetbyyxk USA 90 AIDS NO
+5519 Avaonl Iyjetbyyxk USA 90 HEPATITIS-C NO 24-08-2020
+5448 Wqvqjbxjp Fkkpufjeu USA 71 SMALLPOX NO 19-11-2020
+9801 Flgrrxdhr Jeobzltcido India 44 POLIO NO 10-12-2020
+4206 Ias Dsosm USA 77 GONORRHOEA YES
+4206 Ias Dsosm USA 77 HEPATITIS-C YES
+392 Kwcbzyygpdj Iipbg USA 45 SMALLPOX NO 05-11-2020
+8184 Sqpwopsdhvf Gthohwtcqm France 70 H1N1 YES
+8184 Sqpwopsdhvf Gthohwtcqm France 70 HEPATITIS-A YES
+8184 Sqpwopsdhvf Gthohwtcqm France 70 HEPATITIS-B NO 02-05-2020
+5803 Dtza Hccxsufdr Japan 12 HEPATITIS-A NO 17-07-2020
+8045 Cvtzkswc Cuq Japan 10 HEPATITIS-C NO
+5920 Wbzzn Mezn Canada 31 GONORRHOEA YES 22-04-2020
+1644 Byrlnjtf Tnkszra China 53 EBOLA NO 07-07-2020
+1644 Byrlnjtf Tnkszra China 53 PLAGUE NO 02-12-2020
+1644 Byrlnjtf Tnkszra China 53 SARS-1 YES
+1644 Byrlnjtf Tnkszra China 53 PLAGUE YES 10-11-2020
+4031 Csqkxwkeyi Dwhclpe UK 68 CHOLERA NO
+1290 Ytmfogxlre Rbtisndbm USA 112 MEASLES NO
+9643 Aucqlflxgh Fvsmipzjte India 33 CHLAMYDIA NO
+9643 Aucqlflxgh Fvsmipzjte India 33 SYPHILIS YES 23-03-2020
+9532 Xkgtxcmvmloo Ecmeq UK 102 MALARIA YES
+8516 Skda Leodiqcmuhnp USA 42 COVID-19 YES 15-12-2020
+370 Duxbsfru Une China 15 MEASLES YES 10-09-2020
+370 Duxbsfru Une China 15 CHOLERA NO
+370 Duxbsfru Une China 15 SARS-1 YES 24-06-2020
+9282 Wrykxtzkn Xidv Italy 95 H1N1 NO 30-12-2020
+9282 Wrykxtzkn Xidv Italy 95 MALARIA NO 23-06-2020
+294 Dennffe Wepnyjwcjn UK 13 AIDS NO
+1282 Izvclcglkfa Dmco UK 58 HEPATITIS-B YES 24-11-2020
+52 Ynlgjywyeara Gcuiwfbyvtfk India 114 MALARIA NO
+678 Oxozkrpzpz Mastpydpmgvt Canada 71 HEPATITIS-A NO 28-09-2020
+9090 Lyszoxlyil Veplchp Canada 85 SYPHILIS NO
+3649 Pqiqqkevttj Ipf Russia 94 H1N1 NO 21-06-2020
+9269 Yyygqpqky Pyvhn France 97 EBOLA YES
+9251 Cktpay Ftzme Russia 81 SARS-1 YES 07-04-2020
+1614 Suwkxtawoht Qeuwayecr China 48 H1N1 NO
+1614 Suwkxtawoht Qeuwayecr China 48 HEPATITIS-B YES 05-01-2020
+1614 Suwkxtawoht Qeuwayecr China 48 H1N1 YES
+1614 Suwkxtawoht Qeuwayecr China 48 HEPATITIS-A YES 25-04-2020
+1614 Suwkxtawoht Qeuwayecr China 48 MALARIA NO
+1614 Suwkxtawoht Qeuwayecr China 48 EBOLA YES 12-04-2020
+8133 Ozajj Npyzi USA 49 H1N1 YES
+6093 Mdyzexkwv Omdrdbiczn India 49 HEPATITIS-C YES 19-11-2020
+868 Ydjchtvz Juzjb Russia 33 H1N1 YES 09-06-2020
+7701 Nedduw Uncty UK 27 PLAGUE YES
+7701 Nedduw Uncty UK 27 HEPATITIS-B NO 19-06-2020
+2941 Fxyombpb Oixjkyrlnbp Russia 72 PLAGUE NO 26-03-2020
+2941 Fxyombpb Oixjkyrlnbp Russia 72 MEASLES YES
+2941 Fxyombpb Oixjkyrlnbp Russia 72 SYPHILIS YES 26-07-2020
+751 Ntfltzrxyh Arwpujn USA 75 SYPHILIS YES
+751 Ntfltzrxyh Arwpujn USA 75 SARS-1 NO
+9339 Muczuqh Bfvq Japan 79 FLU YES 21-09-2020
+9339 Muczuqh Bfvq Japan 79 PLAGUE YES 19-09-2020
+9339 Muczuqh Bfvq Japan 79 CHLAMYDIA YES
+9339 Muczuqh Bfvq Japan 79 POLIO YES 24-10-2020
+9339 Muczuqh Bfvq Japan 79 AIDS YES 27-04-2020
+3654 Muyfxu Sso France 35 GONORRHOEA NO 29-04-2020
+3654 Muyfxu Sso France 35 PLAGUE NO 24-10-2020
+2568 Vzxfe Mrju Italy 27 EBOLA NO
+5797 Qrffjuc Zrqezwrpa Canada 58 FLU NO 17-07-2020
+7799 Dmznh Azqce Canada 110 AIDS YES
+7799 Dmznh Azqce Canada 110 GONORRHOEA YES 27-05-2020
+7799 Dmznh Azqce Canada 110 EBOLA YES
+7799 Dmznh Azqce Canada 110 MALARIA YES
+2382 Llv Nzchevqki Russia 6 COVID-19 NO 26-12-2020
+2382 Llv Nzchevqki Russia 6 FLU NO 02-12-2020
+2382 Llv Nzchevqki Russia 6 MEASLES YES 14-03-2020
+1675 Rzmcdqyb Gcpbdbworif France 46 FLU NO 14-11-2020
+1675 Rzmcdqyb Gcpbdbworif France 46 MALARIA NO 22-12-2020
+1000 Xmpgc Bbakslun UK 27 MALARIA NO 01-03-2020
+1000 Xmpgc Bbakslun UK 27 H1N1 NO
+1000 Xmpgc Bbakslun UK 27 HEPATITIS-A NO
+1000 Xmpgc Bbakslun UK 27 MEASLES YES 03-04-2020
+1000 Xmpgc Bbakslun UK 27 CHLAMYDIA YES 19-09-2020
+1000 Xmpgc Bbakslun UK 27 EBOLA NO
+1000 Xmpgc Bbakslun UK 27 MEASLES NO
+1000 Xmpgc Bbakslun UK 27 HEPATITIS-A YES 11-05-2020
+161 Ydpbfvsfwem Fsuh Italy 46 CHLAMYDIA YES
+4820 Njtthre Wabmmx Russia 62 HEPATITIS-C YES 30-05-2020
+4445 Gqf Wbioedyf Russia 52 HEPATITIS-C NO
+4445 Gqf Wbioedyf Russia 52 SMALLPOX NO
+8663 Giukoehr Xnlstv India 71 PLAGUE NO
+1821 Alswtmejhoem Dmizrqw India 87 HEPATITIS-C YES
+1821 Alswtmejhoem Dmizrqw India 87 MALARIA YES 16-06-2020
+1821 Alswtmejhoem Dmizrqw India 87 H1N1 NO 04-08-2020
+902 Jhjhzdjprje Htyr USA 119 CHLAMYDIA YES
+271 Leaer Zktmyceqsw France 27 EBOLA NO
+271 Leaer Zktmyceqsw France 27 EBOLA NO 06-12-2020
+4745 Xujyyzprbr Ksmnuwhfdaa France 75 FLU YES 25-01-2020
+4745 Xujyyzprbr Ksmnuwhfdaa France 75 CHOLERA NO 12-08-2020
+7980 Tojjcub Mhxsshld Japan 85 HEPATITIS-A YES
+36 Xjuyt Gky Canada 55 POLIO NO 19-09-2020
+6180 Jdypqbrxfie Hqhowtzysbtv Canada 46 COVID-19 NO 02-02-2020
+6180 Jdypqbrxfie Hqhowtzysbtv Canada 46 MALARIA NO 10-01-2020
+6180 Jdypqbrxfie Hqhowtzysbtv Canada 46 AIDS NO 14-09-2020
+1250 Ciyfk Ayqotzy Russia 37 MEASLES YES 26-12-2020
+1250 Ciyfk Ayqotzy Russia 37 POLIO YES 21-11-2020
+1250 Ciyfk Ayqotzy Russia 37 POLIO NO 06-08-2020
+5308 Xiyfisjj Oizdy UK 5 PLAGUE NO 27-11-2020
+1392 Zbzbuj Blmjnljzjpz China 29 HEPATITIS-C NO 30-12-2020
+5842 Hyxvz Wrdacb Italy 82 GONORRHOEA NO
+3799 Eexjpz Cwq Italy 6 MALARIA NO
+3701 Xkg Hqk France 75 SMALLPOX YES 09-08-2020
+3701 Xkg Hqk France 75 PLAGUE NO 28-01-2020
+1705 Olb Esrugh Russia 28 PLAGUE YES 21-03-2020
+7097 Qbhplxssscga Mzyhpnhq France 71 SYPHILIS NO
+4239 Dagulxt Grjdgvuttby Canada 76 HEPATITIS-A YES
+4239 Dagulxt Grjdgvuttby Canada 76 COVID-19 NO 17-03-2020
+4239 Dagulxt Grjdgvuttby Canada 76 GONORRHOEA NO
+6790 Qurwpwsefom Ltll USA 106 SYPHILIS YES 24-12-2020
+7355 Qbx Tmhytw Canada 114 GONORRHOEA NO 13-03-2020
+7693 Ejsdkxr Lbewbwllz UK 48 H1N1 NO 12-03-2020
+7693 Ejsdkxr Lbewbwllz UK 48 GONORRHOEA NO 05-02-2020
+7693 Ejsdkxr Lbewbwllz UK 48 HEPATITIS-B YES 22-12-2020
+7693 Ejsdkxr Lbewbwllz UK 48 SMALLPOX NO
+7646 Gcboapcj Eozfs Italy 29 EBOLA NO 05-09-2020
+141 Aqfq Xcxq China 64 H1N1 YES 30-11-2020
+4418 Hlbqjlnw Nbrafxoup India 107 CHOLERA NO 30-01-2020
+4418 Hlbqjlnw Nbrafxoup India 107 SYPHILIS YES
+4418 Hlbqjlnw Nbrafxoup India 107 H1N1 NO 04-05-2020
+136 Wdjini Pfzlxwpkdmzg France 88 COVID-19 YES 23-08-2020
+3183 Obocbphm Gffxcydkl Japan 69 HEPATITIS-C NO
+3183 Obocbphm Gffxcydkl Japan 69 AIDS NO 25-03-2020
+3183 Obocbphm Gffxcydkl Japan 69 HEPATITIS-A YES 05-03-2020
+3183 Obocbphm Gffxcydkl Japan 69 MALARIA YES
+8514 Vputholand Xevdsus France 5 EBOLA YES 30-11-2020
+6151 Gppbmz Vtemkakg India 13 GONORRHOEA NO
+2647 Eickxxmzvnen Xbhxqdlls France 101 CHLAMYDIA YES 27-03-2020
+9089 Mtvxvypr Ucysadtk France 18 MEASLES YES
+9089 Mtvxvypr Ucysadtk France 18 COVID-19 YES
+6922 Fvvyqjfnmhr Ijnyy France 13 POLIO YES 05-04-2020
+6922 Fvvyqjfnmhr Ijnyy France 13 SYPHILIS YES
+6513 Hvijrflhjd Pembz Russia 17 EBOLA NO
+3064 Fxeli Iupdyb Japan 45 EBOLA YES
+931 Kuejdo Wtanfahyzb Japan 60 HEPATITIS-C YES 09-08-2020
+2667 Yanartdg Zybkg Japan 41 PLAGUE YES 29-11-2020
+2667 Yanartdg Zybkg Japan 41 SARS-1 YES
+9839 Teef Wmd India 63 POLIO NO
+4460 Glqrfvk Eipthacqcab Canada 2 FLU NO 13-02-2020
+4427 Wbz Byxay China 116 PLAGUE YES 29-06-2020
+4427 Wbz Byxay China 116 CHOLERA YES
+1032 Gvjjyoeu Mxt China 52 MALARIA YES
+8768 Pyvhqugn Ectb UK 92 HEPATITIS-B NO
+7589 Mjyww Xeg UK 8 MEASLES NO 16-01-2020
+8 Dghho Vjrowh USA 80 CHOLERA NO 27-02-2020
+8 Dghho Vjrowh USA 80 POLIO YES
+599 Xieekkkjo Yhrjc India 92 EBOLA NO
+4973 Ewfgamextp Fdueckjt Italy 43 GONORRHOEA YES 01-01-2020
+2762 Nqvagccuja Zwjxxxmqavof Japan 110 COVID-19 NO
+5054 Fgv Jhmtummfmufg India 104 CHOLERA NO
+6959 Kckuy Lvvwotvyfoi UK 51 CHOLERA NO 06-01-2020
+3494 Dfqezykntb Cuqpwwnnmvk China 100 AIDS NO
+562 Mwwnvy Wzancbv UK 29 CHOLERA NO
+562 Mwwnvy Wzancbv UK 29 HEPATITIS-C NO
+562 Mwwnvy Wzancbv UK 29 EBOLA YES 20-03-2020
+8169 Oovgupu Zxonjgjczu India 20 MEASLES NO 07-01-2020
+5996 Yzu Wzpwcyfxnat Russia 6 HEPATITIS-B YES 10-05-2020
+2426 Yqvihywxarjl Ydzcnbhah Italy 53 GONORRHOEA YES
+1741 Omza Atmwv Canada 1 PLAGUE NO 07-03-2020
+5294 Sahjhbfdcso Dowbuago Japan 81 MALARIA NO 01-10-2020
+890 Dvbtfyo Cqxmzpahtm Canada 14 CHLAMYDIA YES
+890 Dvbtfyo Cqxmzpahtm Canada 14 COVID-19 NO 03-09-2020
+890 Dvbtfyo Cqxmzpahtm Canada 14 HEPATITIS-C NO
+6143 Ntrwzhrxd Wdf Russia 120 CHLAMYDIA YES
+6143 Ntrwzhrxd Wdf Russia 120 HEPATITIS-A NO 01-12-2020
+6143 Ntrwzhrxd Wdf Russia 120 AIDS YES
+9695 Pxchctha Hemrfdgswdih USA 59 HEPATITIS-B NO 06-04-2020
+6256 Mkayx Wvpmhvo Russia 48 HEPATITIS-C YES 03-03-2020
+794 Owyyfuvudb Bpzxicryhv China 17 H1N1 NO 10-08-2020
+9916 Qbjnzzd Orebmkijlz Italy 65 HEPATITIS-A NO
+1928 Ucvco Mtxjwv Canada 101 HEPATITIS-A YES
+4326 Nrl Snepee Italy 120 SYPHILIS YES
+4326 Nrl Snepee Italy 120 H1N1 NO
+1374 Ubmiqdsnmmm Dkjc Italy 81 AIDS NO 05-12-2020
+1374 Ubmiqdsnmmm Dkjc Italy 81 MALARIA NO
+213 Oaccwpfr Hgmrbkcxeo USA 51 SYPHILIS YES 12-01-2020
+7584 Ecwisoeoon Hnflekmqsy China 68 MALARIA NO 23-06-2020
+7584 Ecwisoeoon Hnflekmqsy China 68 CHOLERA NO
+7584 Ecwisoeoon Hnflekmqsy China 68 EBOLA YES
+6843 Fdjgah Wgwrowaxnz Russia 83 SMALLPOX YES 09-05-2020
+8210 Ckonakdmlv Ipso China 117 AIDS NO
+9126 Iuxvcxpw Qorpovhftrbx Canada 117 CHOLERA NO 20-11-2020
+9126 Iuxvcxpw Qorpovhftrbx Canada 117 SMALLPOX YES 02-03-2020
+9126 Iuxvcxpw Qorpovhftrbx Canada 117 SYPHILIS YES
+9126 Iuxvcxpw Qorpovhftrbx Canada 117 AIDS YES 04-08-2020
+2502 Tpivcrbkoek Fgvgoz UK 96 COVID-19 YES
+6561 Rwnwetmbscpr Aqfhqcswe India 70 GONORRHOEA NO
+7847 Lwtoqlyx Ennqurg USA 103 HEPATITIS-A NO 16-11-2020
+7847 Lwtoqlyx Ennqurg USA 103 H1N1 YES
+7847 Lwtoqlyx Ennqurg USA 103 POLIO NO 27-10-2020
+7847 Lwtoqlyx Ennqurg USA 103 HEPATITIS-A NO
+8204 Xdkszzdv Gebk Japan 77 HEPATITIS-A NO
+8204 Xdkszzdv Gebk Japan 77 COVID-19 YES 05-08-2020
+196 Dercuucymjh Lneq France 34 MALARIA NO 22-11-2020
+4144 Eripazcfio Qnp China 25 EBOLA NO
+4144 Eripazcfio Qnp China 25 POLIO YES 20-11-2020
+4979 Qny Xnbita UK 43 H1N1 NO
+4979 Qny Xnbita UK 43 PLAGUE YES 03-06-2020
+4979 Qny Xnbita UK 43 CHLAMYDIA YES 19-12-2020
+4979 Qny Xnbita UK 43 SARS-1 NO 07-12-2020
+4979 Qny Xnbita UK 43 FLU NO 07-02-2020
+4979 Qny Xnbita UK 43 CHOLERA NO
+4979 Qny Xnbita UK 43 SARS-1 YES
+4979 Qny Xnbita UK 43 SYPHILIS YES 27-07-2020
+4979 Qny Xnbita UK 43 POLIO YES 02-12-2020
+6657 Cznge Zqakwx France 32 CHLAMYDIA YES 18-07-2020
+315 Uuzzwayuwc Gre Italy 86 MALARIA YES
+315 Uuzzwayuwc Gre Italy 86 H1N1 NO
+318 Xclqu Obiipwd Italy 32 AIDS NO
+318 Xclqu Obiipwd Italy 32 GONORRHOEA YES 08-06-2020
+4611 Cxxgss Ygarp Russia 95 AIDS YES
+6667 Vtbaisk Tdvatpseqjna USA 107 HEPATITIS-B NO 26-07-2020
+887 Mytoe Ylui Japan 62 HEPATITIS-C NO 22-05-2020
+3118 Azoqfkzqdae Altbbq Italy 2 PLAGUE NO 12-06-2020
+2924 Bvgqbak Xkisfhvrbhc Italy 52 PLAGUE NO
+9081 Oububpxneep Yrnq USA 85 SMALLPOX YES
+9425 Imcvmjtii Rtkgbvgsck India 88 HEPATITIS-C YES
+1952 Fhmqkqqelvyb Nclds Russia 46 MEASLES YES 24-03-2020
+1952 Fhmqkqqelvyb Nclds Russia 46 AIDS NO
+1952 Fhmqkqqelvyb Nclds Russia 46 MEASLES NO
+1591 Cfvmxzfljkty Rsphuxdqkii Russia 96 SMALLPOX NO
+7642 Pqcipasrkas Ekiptldeyv Russia 17 FLU NO 29-03-2020
+7642 Pqcipasrkas Ekiptldeyv Russia 17 MEASLES YES 10-05-2020
+7413 Uaj Npje India 36 AIDS NO
+7413 Uaj Npje India 36 HEPATITIS-B YES
+14 Hpceek Owbyxca France 115 CHOLERA YES 23-08-2020
+14 Hpceek Owbyxca France 115 POLIO NO
+628 Qaqweh Nmqihbretdwx USA 34 EBOLA YES
+4620 Fizhofsyqu Evqfsphgzod Japan 110 SARS-1 YES
+5064 Sorfp Bfyisrc Italy 100 FLU YES
+4188 Dfxcffh Jqeb Japan 68 HEPATITIS-C NO
+4188 Dfxcffh Jqeb Japan 68 HEPATITIS-A NO 05-03-2020
+8490 Sdltqyqa Ogjyf Canada 51 H1N1 NO 06-02-2020
+8490 Sdltqyqa Ogjyf Canada 51 CHLAMYDIA NO
+8490 Sdltqyqa Ogjyf Canada 51 EBOLA YES 15-04-2020
+556 Gzpzqc Xtfdhk China 21 CHLAMYDIA NO
+556 Gzpzqc Xtfdhk China 21 CHLAMYDIA YES
+4248 Iuvfnnpu Acmnrv France 20 H1N1 YES 13-12-2020
+4248 Iuvfnnpu Acmnrv France 20 POLIO NO
+6263 Hxmxuylek Aktxjlhzu UK 88 SARS-1 YES 01-01-2020
+6263 Hxmxuylek Aktxjlhzu UK 88 HEPATITIS-C NO
+6263 Hxmxuylek Aktxjlhzu UK 88 SARS-1 NO
+6263 Hxmxuylek Aktxjlhzu UK 88 SARS-1 NO
+6263 Hxmxuylek Aktxjlhzu UK 88 GONORRHOEA YES
+6263 Hxmxuylek Aktxjlhzu UK 88 MALARIA YES 15-03-2020
+9079 Edvfssuy Jzlfwogb Japan 86 CHOLERA NO 19-12-2020
+7118 Nveftgucmysh Oyelxnzw France 38 HEPATITIS-B YES
+1608 Tktneqelly Eets UK 48 SYPHILIS YES
+5034 Qkcuiyedv Eabbrbl Italy 3 HEPATITIS-B NO
+5034 Qkcuiyedv Eabbrbl Italy 3 CHOLERA YES 22-06-2020
+1980 Cvo Upucwey Russia 28 GONORRHOEA YES
+1980 Cvo Upucwey Russia 28 AIDS NO 03-02-2020
+3894 Kswqjrht Wmc China 53 HEPATITIS-A NO
+3894 Kswqjrht Wmc China 53 MEASLES NO 02-09-2020
+3894 Kswqjrht Wmc China 53 HEPATITIS-A NO
+3894 Kswqjrht Wmc China 53 SARS-1 NO
+3894 Kswqjrht Wmc China 53 SARS-1 YES 03-06-2020
+2384 Pjyhkklmcgwn Mrg UK 41 FLU YES
+9519 Wim Rvmlohaa Japan 47 HEPATITIS-A YES 12-03-2020
+9414 Tqetve Hmm France 71 POLIO NO 14-07-2020
+1919 Awabbdtwnp Tmzmpyymv Italy 76 SYPHILIS YES 12-09-2020
+1919 Awabbdtwnp Tmzmpyymv Italy 76 MEASLES NO
+1919 Awabbdtwnp Tmzmpyymv Italy 76 SMALLPOX YES 18-04-2020
+7780 Pbgpouwbmnw Ngduoxwm Italy 43 HEPATITIS-C YES 02-02-2020
+4495 Ogb Cxwwi UK 62 EBOLA YES
+5499 Wiwbzzxdosxy Vsldburz Canada 29 HEPATITIS-A YES
+5499 Wiwbzzxdosxy Vsldburz Canada 29 MALARIA YES
+5499 Wiwbzzxdosxy Vsldburz Canada 29 GONORRHOEA NO 24-08-2020
+5499 Wiwbzzxdosxy Vsldburz Canada 29 H1N1 YES
+5499 Wiwbzzxdosxy Vsldburz Canada 29 COVID-19 YES 17-06-2020
+5499 Wiwbzzxdosxy Vsldburz Canada 29 SMALLPOX YES
+5499 Wiwbzzxdosxy Vsldburz Canada 29 POLIO YES
+2597 Kzhcyqma Yehfqtwdwku USA 23 AIDS NO
+2597 Kzhcyqma Yehfqtwdwku USA 23 CHOLERA NO 23-01-2020
+406 Jxrgbmakijpb Blgpt China 10 HEPATITIS-C YES
+406 Jxrgbmakijpb Blgpt China 10 POLIO NO
+7903 Ijs Zbsqrxhjf Italy 2 PLAGUE YES
+7903 Ijs Zbsqrxhjf Italy 2 POLIO NO 26-08-2020
+7984 Gtlbec Zrvfumjgqul India 32 HEPATITIS-A YES 04-01-2020
+5716 Kzekvhxsrk Bvhzjqcqdydv India 73 SYPHILIS NO 04-06-2020
+5716 Kzekvhxsrk Bvhzjqcqdydv India 73 CHLAMYDIA NO
+5716 Kzekvhxsrk Bvhzjqcqdydv India 73 AIDS YES 01-03-2020
+5716 Kzekvhxsrk Bvhzjqcqdydv India 73 HEPATITIS-C YES
+5716 Kzekvhxsrk Bvhzjqcqdydv India 73 SARS-1 NO 07-01-2020
+5716 Kzekvhxsrk Bvhzjqcqdydv India 73 HEPATITIS-A NO 14-03-2020
+5716 Kzekvhxsrk Bvhzjqcqdydv India 73 SMALLPOX YES
+5716 Kzekvhxsrk Bvhzjqcqdydv India 73 H1N1 NO 07-05-2020
+5716 Kzekvhxsrk Bvhzjqcqdydv India 73 AIDS NO 19-10-2020
+5716 Kzekvhxsrk Bvhzjqcqdydv India 73 PLAGUE YES
+2385 Gbxwzlm Amtafbab USA 94 SARS-1 YES 29-11-2020
+2385 Gbxwzlm Amtafbab USA 94 GONORRHOEA YES 25-05-2020
+2385 Gbxwzlm Amtafbab USA 94 HEPATITIS-C NO 08-12-2020
+7944 Wsjlolzox Kzb Japan 119 CHLAMYDIA NO 16-04-2020
+7944 Wsjlolzox Kzb Japan 119 MEASLES NO 15-08-2020
+788 Kyhcimavd Vuplebexzi USA 3 MALARIA NO
+2985 Lniawhcszpo Anmavwwd France 107 AIDS YES 09-01-2020
+2985 Lniawhcszpo Anmavwwd France 107 CHLAMYDIA NO
+4539 Bzoldicwdbz Hku Canada 50 MEASLES NO
+8759 Uxrbhdfga Vunikdz Russia 90 SYPHILIS YES
+8395 Tiblzgkpday Igkxuujxvet France 95 GONORRHOEA YES 10-04-2020
+8395 Tiblzgkpday Igkxuujxvet France 95 FLU NO 14-05-2020
+8395 Tiblzgkpday Igkxuujxvet France 95 AIDS NO
+8395 Tiblzgkpday Igkxuujxvet France 95 HEPATITIS-A NO
+8395 Tiblzgkpday Igkxuujxvet France 95 HEPATITIS-A NO
+8395 Tiblzgkpday Igkxuujxvet France 95 CHOLERA YES 17-05-2020
+8395 Tiblzgkpday Igkxuujxvet France 95 CHLAMYDIA NO
+8395 Tiblzgkpday Igkxuujxvet France 95 SMALLPOX YES
+1473 Brvrhh Oimrpaenyqdj UK 108 COVID-19 YES 12-08-2020
+6238 Jopakeayq Sbxot UK 44 GONORRHOEA YES 30-06-2020
+6678 Zyojrltavdtp Yxwmn India 117 AIDS NO 09-11-2020
+2896 Ovjgaiunx Iueehnkg India 120 COVID-19 NO 29-12-2020
+4268 Nnsyboiyfjpj Aifc India 71 GONORRHOEA YES 12-01-2020
+4268 Nnsyboiyfjpj Aifc India 71 MEASLES NO 01-09-2020
+4268 Nnsyboiyfjpj Aifc India 71 COVID-19 YES 20-09-2020
+3159 Qxfdu Euia Japan 110 H1N1 NO 18-11-2020
+3148 Sbqbnsacv Tcvnmjuos Canada 107 AIDS NO 21-10-2020
+5010 Dgiyqgqyqdf Twz Canada 25 COVID-19 NO
+9006 Kwfvgp Difjeunpdepv India 79 HEPATITIS-C YES 08-03-2020
+9006 Kwfvgp Difjeunpdepv India 79 CHLAMYDIA NO
+9006 Kwfvgp Difjeunpdepv India 79 H1N1 YES
+6726 Xsuzxtqjw Kvvxihgkvf Japan 22 MEASLES YES 23-11-2020
+536 Wqk Fdkscks Italy 12 GONORRHOEA NO
+6839 Kneczhdw Fyxddiftaeqk UK 26 POLIO YES
+6839 Kneczhdw Fyxddiftaeqk UK 26 FLU YES 25-01-2020
+6308 Xyedevjv Kqjicxcribq Canada 17 GONORRHOEA NO
+3070 Krgciwlomkky Amufdfc France 109 COVID-19 NO 25-12-2020
+3070 Krgciwlomkky Amufdfc France 109 POLIO NO 25-12-2020
+2624 Xevcuo Aefsjhczwdt Russia 38 MEASLES NO
+2624 Xevcuo Aefsjhczwdt Russia 38 MEASLES YES
+1067 Pdsnbgcds Zfbsu China 14 FLU NO 08-04-2020
+5493 Inhom Ubhbvajpqok China 29 SYPHILIS YES
+5493 Inhom Ubhbvajpqok China 29 MEASLES YES
+5493 Inhom Ubhbvajpqok China 29 FLU YES
+5493 Inhom Ubhbvajpqok China 29 HEPATITIS-A YES 23-04-2020
+5493 Inhom Ubhbvajpqok China 29 MALARIA NO 25-12-2020
+5471 Bxapg Bbfjvxlg Japan 90 PLAGUE NO 10-08-2020
+1152 Bkdmcidvj Aovqhvcpu Japan 19 CHOLERA NO 04-07-2020
+58 Uqbq Fxfgcklmz France 41 POLIO NO
+58 Uqbq Fxfgcklmz France 41 MALARIA NO 16-05-2020
+1753 Ycoeyonvhtdx Ejcclwf Italy 72 AIDS NO 12-10-2020
+4147 Lkcxqjxjd Rwh Italy 115 PLAGUE NO 23-05-2020
+8035 Jgicjhbd Qkhxiakj UK 40 COVID-19 YES
+8035 Jgicjhbd Qkhxiakj UK 40 SYPHILIS NO
+1887 Mkfli Nfytw Italy 113 PLAGUE NO
+9658 Sajobfqscozr Mvadmwtb China 97 SYPHILIS YES
+1109 Dvbbtwtvwyaw Vmgkjcuoupp Russia 119 AIDS YES 09-06-2020
+1109 Dvbbtwtvwyaw Vmgkjcuoupp Russia 119 AIDS YES
+1971 Tubxekkcmy Qisptmv India 70 HEPATITIS-C NO 18-12-2020
+1643 Utv Soeicxxeyz Russia 7 CHOLERA NO
+2805 Cgwbvmw Snsjdvu India 117 AIDS YES
+511 Nxkabwkrjy Mzwxlgtsi France 42 SARS-1 NO
+1113 Fivlwuziq Spioccqf China 61 HEPATITIS-A NO
+1113 Fivlwuziq Spioccqf China 61 FLU NO
+1113 Fivlwuziq Spioccqf China 61 CHOLERA YES 11-12-2020
+1113 Fivlwuziq Spioccqf China 61 EBOLA NO 28-11-2020
+1113 Fivlwuziq Spioccqf China 61 FLU NO 07-03-2020
+1816 Tctc Cfneqokat Japan 49 CHOLERA NO
+2 Tsgijznyamj Jkyhjdz France 115 CHOLERA NO 01-03-2020
+9637 Adkfymsk Giwksntvfig Canada 101 EBOLA NO 03-04-2020
+9637 Adkfymsk Giwksntvfig Canada 101 SARS-1 YES 24-09-2020
+9637 Adkfymsk Giwksntvfig Canada 101 COVID-19 YES
+6328 Tpsgxxpuitww Pefr USA 103 CHOLERA YES
+3056 Uaxreph Vhn France 5 MALARIA NO 04-05-2020
+1369 Oyftjrvmptjp Enovwmxhevnp Italy 75 PLAGUE YES
+1369 Oyftjrvmptjp Enovwmxhevnp Italy 75 POLIO NO 09-06-2020
+1369 Oyftjrvmptjp Enovwmxhevnp Italy 75 SARS-1 YES
+572 Xmfgm Uvekrqbssi Russia 0 SYPHILIS NO 04-01-2020
+572 Xmfgm Uvekrqbssi Russia 0 SARS-1 NO
+2250 Uwvrp Zozf France 103 HEPATITIS-C YES
+4046 Prylprs Xsqjvbopc Japan 36 HEPATITIS-B YES 03-03-2020
+4046 Prylprs Xsqjvbopc Japan 36 CHOLERA NO 17-03-2020
+4107 Ypdimkutycoe Rfndyhrjkn Italy 11 SYPHILIS YES 09-11-2020
+7722 Dftsigefwcb Yrcwopy Italy 85 FLU NO 11-07-2020
+7722 Dftsigefwcb Yrcwopy Italy 85 MALARIA YES
+1353 Ffmrzdnsqva Cvkmryjvrzt UK 10 SYPHILIS YES
+4751 Bwlztvhcstue Qhppcjra Russia 22 HEPATITIS-C YES
+4854 Xtcd Jfia India 112 MALARIA YES
+9665 Dvjunepq Yoxjyhynkjjf Russia 91 H1N1 NO
+9665 Dvjunepq Yoxjyhynkjjf Russia 91 MALARIA YES 20-01-2020
+9665 Dvjunepq Yoxjyhynkjjf Russia 91 MALARIA NO
+253 Tqyptia Vvyqxajjf Japan 82 HEPATITIS-C YES 25-02-2020
+253 Tqyptia Vvyqxajjf Japan 82 POLIO YES
+4761 Ssfdtdupb Znvqaskwlhm India 3 SYPHILIS YES
+4761 Ssfdtdupb Znvqaskwlhm India 3 H1N1 NO 14-01-2020
+3687 Jutobqutewp Shhdlg China 109 SYPHILIS NO 25-12-2020
+3687 Jutobqutewp Shhdlg China 109 HEPATITIS-B YES 20-07-2020
+4133 Tojic Cxbsqydzph Japan 77 PLAGUE YES
+197 Sfahdiukgj Vizzpxkcq UK 57 GONORRHOEA NO 10-07-2020
+184 Vmarxvtbwwy Krf Russia 18 SYPHILIS YES 28-07-2020
+184 Vmarxvtbwwy Krf Russia 18 GONORRHOEA NO
+9245 Omnblqb Veao Canada 35 HEPATITIS-A NO 29-03-2020
+9245 Omnblqb Veao Canada 35 CHOLERA YES
+3783 Msfqj Rzql Russia 32 CHOLERA YES 23-12-2020
+3783 Msfqj Rzql Russia 32 CHOLERA NO
+3783 Msfqj Rzql Russia 32 GONORRHOEA NO 04-11-2020
+3783 Msfqj Rzql Russia 32 PLAGUE YES
+3039 Clngvvshr Endtd Japan 2 HEPATITIS-C YES 09-08-2020
+3039 Clngvvshr Endtd Japan 2 SARS-1 YES
+3039 Clngvvshr Endtd Japan 2 PLAGUE YES
+2923 Vrxd Zedpcb USA 111 AIDS NO
+8094 Pzo Uiebhfx India 28 H1N1 YES
+3289 Zjuu Teevafwkhnoo India 77 MEASLES NO 28-02-2020
+618 Veu Oammvzqzg Italy 9 FLU NO
+618 Veu Oammvzqzg Italy 9 EBOLA NO
+618 Veu Oammvzqzg Italy 9 H1N1 NO
+618 Veu Oammvzqzg Italy 9 SMALLPOX NO 23-04-2020
+1042 Awzqyb Wummcffmnfha France 37 SARS-1 NO 13-07-2020
+6452 Yuaw Dgqatk Japan 100 EBOLA NO
+6452 Yuaw Dgqatk Japan 100 HEPATITIS-B YES
+2956 Gqgsbd Qgldakmv UK 23 AIDS NO
+1145 Oiywsjncmdpy Murntnvrzqi France 1 MALARIA NO
+1145 Oiywsjncmdpy Murntnvrzqi France 1 GONORRHOEA NO
+1145 Oiywsjncmdpy Murntnvrzqi France 1 CHLAMYDIA NO
+7365 Zegmctgpuluq Xmujcpgvwtke Canada 113 PLAGUE NO 06-11-2020
+8555 Fpclx Dds Canada 53 SYPHILIS YES 14-04-2020
+8555 Fpclx Dds Canada 53 PLAGUE NO
+8892 Atfzpstac Ersq USA 41 HEPATITIS-B YES
+682 Jtauoh Sapya China 21 SARS-1 YES
+598 Znjmhmeo Lgiqdymia USA 23 COVID-19 YES 22-11-2020
+256 Dprbb Kgsadif Japan 37 COVID-19 NO
+845 Jrswwz Snitbobouaeg China 23 HEPATITIS-B YES
+845 Jrswwz Snitbobouaeg China 23 GONORRHOEA YES
+845 Jrswwz Snitbobouaeg China 23 MEASLES YES 19-06-2020
+845 Jrswwz Snitbobouaeg China 23 POLIO NO
+2772 Cemfps Ykhsbjtc Russia 64 MALARIA NO 18-09-2020
+8452 Ziwwqfpzlvq Zzqmqhfxehl India 11 EBOLA YES 23-10-2020
+8452 Ziwwqfpzlvq Zzqmqhfxehl India 11 H1N1 YES
+8452 Ziwwqfpzlvq Zzqmqhfxehl India 11 POLIO YES
+8452 Ziwwqfpzlvq Zzqmqhfxehl India 11 GONORRHOEA YES 01-05-2020
+8452 Ziwwqfpzlvq Zzqmqhfxehl India 11 PLAGUE NO 08-09-2020
+8452 Ziwwqfpzlvq Zzqmqhfxehl India 11 PLAGUE YES
+8452 Ziwwqfpzlvq Zzqmqhfxehl India 11 AIDS NO 09-06-2020
+9273 Emegcoxlw Minkvpkpo France 33 FLU YES
+1099 Lvxxcj Iasrtwgsxz Canada 23 EBOLA YES 24-01-2020
+1099 Lvxxcj Iasrtwgsxz Canada 23 GONORRHOEA YES
+1993 Oayo Hoodnltxtno Japan 61 HEPATITIS-C NO
+7462 Emhm Vwqnnc India 109 SYPHILIS YES
+7462 Emhm Vwqnnc India 109 GONORRHOEA NO 06-05-2020
+7462 Emhm Vwqnnc India 109 EBOLA NO
+7462 Emhm Vwqnnc India 109 POLIO YES
+7462 Emhm Vwqnnc India 109 SMALLPOX NO
+7462 Emhm Vwqnnc India 109 PLAGUE YES 19-07-2020
+7462 Emhm Vwqnnc India 109 HEPATITIS-C NO 26-12-2020
+447 Ucmhooechq Safwoxm USA 36 HEPATITIS-B NO 17-05-2020
+447 Ucmhooechq Safwoxm USA 36 FLU YES
+447 Ucmhooechq Safwoxm USA 36 HEPATITIS-C NO 14-02-2020
+447 Ucmhooechq Safwoxm USA 36 PLAGUE YES 02-12-2020
+7456 Kdjst Ihrylmfuwiz France 1 HEPATITIS-A YES 13-03-2020
+4931 Qnjdblmomw Eqyqdpxknjp France 94 AIDS YES 18-10-2020
+4931 Qnjdblmomw Eqyqdpxknjp France 94 CHOLERA NO
+508 Ubdxbbnmj Rxneqzhnfw India 76 SMALLPOX NO 03-05-2020
+508 Ubdxbbnmj Rxneqzhnfw India 76 COVID-19 YES 14-05-2020
+508 Ubdxbbnmj Rxneqzhnfw India 76 FLU NO
+9752 Smi Kfvsufj Italy 4 H1N1 NO
+9752 Smi Kfvsufj Italy 4 PLAGUE NO 11-05-2020
+9752 Smi Kfvsufj Italy 4 POLIO YES 17-11-2020
+4490 Uiskwu Ktrlbh USA 104 MALARIA YES
+9667 Gkzr Qjjfmvhwu India 96 FLU YES 20-02-2020
+9667 Gkzr Qjjfmvhwu India 96 HEPATITIS-A NO 04-09-2020
+1066 Wgwtcioit Yisk USA 25 H1N1 NO 15-02-2020
+1066 Wgwtcioit Yisk USA 25 PLAGUE NO 19-09-2020
+1066 Wgwtcioit Yisk USA 25 CHLAMYDIA YES
+2972 Lpttwsz Tdhv UK 2 AIDS NO 03-12-2020
+8304 Ymb Fyxatxkmgrp Canada 85 POLIO NO 20-07-2020
+8304 Ymb Fyxatxkmgrp Canada 85 SYPHILIS YES 16-01-2020
+8304 Ymb Fyxatxkmgrp Canada 85 MEASLES YES
+8304 Ymb Fyxatxkmgrp Canada 85 HEPATITIS-C NO
+7378 Kulwlgeavnlo Szmmo Canada 55 MEASLES NO
+7378 Kulwlgeavnlo Szmmo Canada 55 HEPATITIS-C YES 13-11-2020
+2292 Jawqkvkq Viz China 44 PLAGUE YES 12-11-2020
+2292 Jawqkvkq Viz China 44 GONORRHOEA NO 12-05-2020
+2292 Jawqkvkq Viz China 44 GONORRHOEA YES
+2292 Jawqkvkq Viz China 44 COVID-19 YES
+267 Axbtmpzaaf Owadokogacu Canada 27 SYPHILIS YES
+267 Axbtmpzaaf Owadokogacu Canada 27 MEASLES NO 10-04-2020
+267 Axbtmpzaaf Owadokogacu Canada 27 PLAGUE YES 25-12-2020
+1149 Fijpeddadk Scqkihlooqe Italy 71 SYPHILIS NO 18-01-2020
+7918 Trtb Qfhftjxtgagj Italy 49 HEPATITIS-B YES
+8233 Adclurgaf Bsytrl Canada 113 HEPATITIS-C YES
+4683 Ubbhk Vxfqb USA 83 MALARIA YES
+4683 Ubbhk Vxfqb USA 83 SARS-1 NO 08-05-2020
+1553 Kljvywllo Nvexzzdwwq France 111 FLU YES 05-02-2020
+1553 Kljvywllo Nvexzzdwwq France 111 CHOLERA YES
+1553 Kljvywllo Nvexzzdwwq France 111 MEASLES YES 20-12-2020
+296 Pmlsmumy Vzhjxceof Japan 104 MEASLES YES 01-12-2020
+296 Pmlsmumy Vzhjxceof Japan 104 SARS-1 YES
+440 Ftzbzbrxgk Zzpbykenkxvw China 66 SARS-1 NO 06-10-2020
+9617 Rzltyybtgruf Ynuo China 110 GONORRHOEA YES 15-11-2020
+5976 Actjtw Bas China 59 MEASLES YES 07-06-2020
+5976 Actjtw Bas China 59 EBOLA YES
+5976 Actjtw Bas China 59 CHOLERA YES 26-08-2020
+6496 Oxmfyoctcs Yilorss Italy 8 GONORRHOEA YES
+8926 Uttnlzhgk Wru China 4 CHOLERA NO
+8926 Uttnlzhgk Wru China 4 MALARIA NO
+8926 Uttnlzhgk Wru China 4 H1N1 YES 13-01-2020
+7190 Ktvcvdmzhsk Anktmezd Japan 60 H1N1 YES
+7190 Ktvcvdmzhsk Anktmezd Japan 60 CHOLERA YES
+233 Krxokbqdxih Zpxl Russia 84 POLIO YES
+2032 Igdqirfd Vaynhifgzz India 80 HEPATITIS-A YES
+2032 Igdqirfd Vaynhifgzz India 80 SMALLPOX NO
+4156 Lmvukpfkf Hvpywihvrda USA 75 AIDS YES
+3283 Cndjnj Sms France 110 H1N1 NO
+3283 Cndjnj Sms France 110 HEPATITIS-A YES
+3283 Cndjnj Sms France 110 COVID-19 YES
+3283 Cndjnj Sms France 110 MALARIA NO
+8596 Ksshnddsdk Eqpr France 93 SMALLPOX YES
+8596 Ksshnddsdk Eqpr France 93 H1N1 NO
+8596 Ksshnddsdk Eqpr France 93 AIDS YES 26-02-2020
+5917 Axzcafcohwrg Rklemydfp USA 65 COVID-19 NO 24-09-2020
+7775 Ubclyxel Jogfewd France 0 HEPATITIS-A YES
+588 Lobeedmn Idelclg Russia 9 H1N1 YES 20-05-2020
+6142 Jlkvsfdg Euqlwu Canada 58 HEPATITIS-C NO
+9402 Ffvbjdvwj Jbd India 78 H1N1 NO 01-07-2020
+6172 Djz Piogyyg India 45 AIDS YES
+7271 Ajnyoblbunx Rnj France 8 HEPATITIS-A YES 04-11-2020
+7271 Ajnyoblbunx Rnj France 8 HEPATITIS-C NO 25-07-2020
+7271 Ajnyoblbunx Rnj France 8 HEPATITIS-B YES
+7271 Ajnyoblbunx Rnj France 8 HEPATITIS-C NO 13-03-2020
+1534 Kxnbnvf Okg UK 99 SMALLPOX NO 17-02-2020
+1534 Kxnbnvf Okg UK 99 HEPATITIS-A YES 24-10-2020
+3391 Txrolxdsokmk Cdbbgtnxhong Canada 103 HEPATITIS-C YES 07-09-2020
+5798 Hmoscala Drq France 37 CHLAMYDIA NO
+526 Fxchoelnmjcb Qfrxsathxly Canada 8 H1N1 YES
+1524 Gzhnipfqwt Vlwwlrj China 5 GONORRHOEA NO
+3912 Qjdueysyee Jqmqu Canada 120 HEPATITIS-C NO 22-12-2020
+5068 Egfhbnugbfh Qmhpqoscoks India 105 CHOLERA YES
+5068 Egfhbnugbfh Qmhpqoscoks India 105 GONORRHOEA NO
+3478 Uyvkkgkajexd Aoysc France 40 HEPATITIS-B NO 15-02-2020
+3478 Uyvkkgkajexd Aoysc France 40 COVID-19 YES 28-09-2020
+3567 Apvsxh Bqhvvvsfx China 2 HEPATITIS-C YES 02-11-2020
+3146 Jfc Bobw China 73 HEPATITIS-A NO
+3146 Jfc Bobw China 73 COVID-19 YES
+3146 Jfc Bobw China 73 HEPATITIS-B YES 22-05-2020
+98 Vccczqueh Odkoetrc Canada 76 SMALLPOX NO 27-12-2020
+98 Vccczqueh Odkoetrc Canada 76 MEASLES NO 14-01-2020
+8745 Doo Bgzkrzkphjvp India 34 MEASLES NO
+8745 Doo Bgzkrzkphjvp India 34 MEASLES YES
+8538 Yqvq Hxlemfolzegz USA 51 MALARIA NO 17-03-2020
+8538 Yqvq Hxlemfolzegz USA 51 COVID-19 YES 21-06-2020
+6984 Rebj Ohryutbie USA 88 MEASLES NO
+7651 Uawncfzeywvq Mkndmcz UK 48 GONORRHOEA NO 06-09-2020
+1747 Kzemoovhc Nhsmkxkqbze China 81 EBOLA NO 19-11-2020
+1747 Kzemoovhc Nhsmkxkqbze China 81 AIDS NO 01-08-2020
+5527 Lwlxyihexvw Dvsqfvnr Italy 15 COVID-19 NO 03-04-2020
+8696 Fblturcs Zabm Russia 77 EBOLA YES 09-02-2020
+8696 Fblturcs Zabm Russia 77 HEPATITIS-C NO 15-02-2020
+9100 Hpbdwnio Zyqwrfklxtg Canada 40 COVID-19 YES
+2840 Mpp Fzxvnqfdwa Russia 62 CHLAMYDIA YES 01-09-2020
+6086 Rrtrmuffp Qho France 119 CHOLERA YES 08-10-2020
+2639 Onbiluzveew Qvylndsspqb Japan 7 H1N1 NO 28-10-2020
+179 Omgwaeyjluk Lgtmmvqjcopp France 98 POLIO YES 24-10-2020
+3745 Moipmwyuw Btqomlaabrt UK 76 POLIO NO
+3745 Moipmwyuw Btqomlaabrt UK 76 CHLAMYDIA YES 15-04-2020
+3745 Moipmwyuw Btqomlaabrt UK 76 HEPATITIS-C NO
+3745 Moipmwyuw Btqomlaabrt UK 76 MEASLES NO 21-10-2020
+9310 Rkwr Rdzig USA 70 AIDS NO
+9310 Rkwr Rdzig USA 70 EBOLA YES
+9310 Rkwr Rdzig USA 70 AIDS NO 04-10-2020
+3315 Htxcpnt Ksg Canada 30 PLAGUE NO 10-12-2020
+2825 Awort Bwffjodclkn Italy 31 SARS-1 YES 12-04-2020
+2825 Awort Bwffjodclkn Italy 31 HEPATITIS-A YES
+3174 Rysbzkppije Nqkkgsavmhu India 105 SMALLPOX YES 11-08-2020
+5883 Sdyesw Wnnbszob UK 81 COVID-19 YES 07-12-2020
+3805 Micev Wsg Russia 72 SYPHILIS YES
+5420 Yzzkbebsi Pwfu Italy 70 AIDS YES
+8254 Qqmuiragmmrf Sfjctfumcepx Italy 22 AIDS YES 02-07-2020
+4034 Hptvx Psoyyyrqjvt USA 54 H1N1 YES
+6182 Qmqru Gnatbrqenn France 69 MALARIA YES 15-04-2020
+6182 Qmqru Gnatbrqenn France 69 PLAGUE YES
+6182 Qmqru Gnatbrqenn France 69 HEPATITIS-C NO
+6182 Qmqru Gnatbrqenn France 69 CHLAMYDIA NO 04-05-2020
+6182 Qmqru Gnatbrqenn France 69 HEPATITIS-B YES 09-07-2020
+2401 Gomybstwgawt Wosuhhnta USA 105 SARS-1 YES 14-12-2020
+8794 Jumj Kar China 117 SMALLPOX NO 24-09-2020
+8794 Jumj Kar China 117 MEASLES NO
+8794 Jumj Kar China 117 GONORRHOEA NO
+8794 Jumj Kar China 117 EBOLA NO
+8794 Jumj Kar China 117 POLIO YES 05-12-2020
+3296 Exjsgmve Vsxy France 83 POLIO NO
+3296 Exjsgmve Vsxy France 83 HEPATITIS-A YES 04-01-2020
+3296 Exjsgmve Vsxy France 83 GONORRHOEA NO
+442 Ppsik Nezaapin India 14 FLU YES
+442 Ppsik Nezaapin India 14 FLU NO 06-06-2020
+442 Ppsik Nezaapin India 14 CHLAMYDIA YES
+442 Ppsik Nezaapin India 14 AIDS NO 03-06-2020
+442 Ppsik Nezaapin India 14 MEASLES NO 02-12-2020
+3492 Iaxmohupda Mpxsa China 75 SARS-1 YES
+431 Ruotbjgwzk Nqjatorntid China 34 EBOLA YES
+4867 Mvvkcnfi Ovznczdila Canada 69 CHLAMYDIA NO
+4867 Mvvkcnfi Ovznczdila Canada 69 HEPATITIS-B NO
+4867 Mvvkcnfi Ovznczdila Canada 69 HEPATITIS-A NO 22-06-2020
+4867 Mvvkcnfi Ovznczdila Canada 69 HEPATITIS-C YES 08-03-2020
+178 Iainokoy Nadjtbebgfg Japan 97 HEPATITIS-C NO
+1039 Ege Awnifeod France 42 COVID-19 NO 28-06-2020
+7959 Slzcjtv Ecpezaeaxi Russia 14 GONORRHOEA NO
+7959 Slzcjtv Ecpezaeaxi Russia 14 EBOLA NO 20-02-2020
+3140 Vrobcrp Wxys USA 48 H1N1 YES
+3140 Vrobcrp Wxys USA 48 SYPHILIS NO
+1043 Amylj Otrzaslnxj China 17 MALARIA YES 26-08-2020
+9603 Luzup Mbtrfid Russia 84 MALARIA NO
+1885 Ykfb Qceuwjwhazdr Canada 36 H1N1 YES 08-02-2020
+1885 Ykfb Qceuwjwhazdr Canada 36 SARS-1 YES 08-04-2020
+1885 Ykfb Qceuwjwhazdr Canada 36 PLAGUE NO 01-10-2020
+4482 Auv Tgd Canada 69 AIDS YES
+1957 Ordmisreh Hugkzip France 110 COVID-19 YES
+1957 Ordmisreh Hugkzip France 110 HEPATITIS-A YES
+784 Jrgdkpcwst Mxrzbaqija China 92 HEPATITIS-A YES 07-06-2020
+784 Jrgdkpcwst Mxrzbaqija China 92 MEASLES YES 22-10-2020
+5677 Bteddtsubzsr Upycimbycznc USA 84 SYPHILIS YES
+2353 Qmrgggqrzba Ptxtlq France 27 MALARIA YES
+3956 Nlgxqv Fsgfqajkl Japan 68 HEPATITIS-B NO 02-01-2020
+3956 Nlgxqv Fsgfqajkl Japan 68 HEPATITIS-B NO
+3956 Nlgxqv Fsgfqajkl Japan 68 EBOLA NO
+9220 Mim Ptmfyehfnq France 98 POLIO YES 19-11-2020
+2928 Dqhlr Zyjtidfts Russia 76 POLIO YES 16-05-2020
+2928 Dqhlr Zyjtidfts Russia 76 CHLAMYDIA NO
+2928 Dqhlr Zyjtidfts Russia 76 MALARIA YES 16-10-2020
+6067 Ggjcexrrbht Izgqjejdfni Canada 63 H1N1 YES
+6067 Ggjcexrrbht Izgqjejdfni Canada 63 MEASLES YES
+7887 Yzihzihe Kooopcrqr UK 105 AIDS YES
+7887 Yzihzihe Kooopcrqr UK 105 SARS-1 NO 05-12-2020
+9561 Grcas Ywkrdhskatwa France 40 COVID-19 YES 27-02-2020
+9 Wpgrv Elukefk Japan 37 AIDS NO 11-04-2020
+3374 Qxijrmkhvmnp Ifgodqvi France 38 CHOLERA YES 04-03-2020
+3374 Qxijrmkhvmnp Ifgodqvi France 38 COVID-19 NO
+2037 Isoqygmewhd Ljftsll USA 107 PLAGUE YES 12-12-2020
+2037 Isoqygmewhd Ljftsll USA 107 SMALLPOX NO
+2037 Isoqygmewhd Ljftsll USA 107 SMALLPOX NO
+2018 Qyqxnkzt Dbsdzfzebh Japan 78 HEPATITIS-B NO 06-04-2020
+8978 Pupuwvn Lsjqffanv Italy 107 HEPATITIS-A YES
+8978 Pupuwvn Lsjqffanv Italy 107 SARS-1 YES 16-02-2020
+9211 Izlulk Iqugw India 41 MEASLES YES
+9211 Izlulk Iqugw India 41 HEPATITIS-A YES
+6397 Gcdjumnmhawf Npwzx Russia 96 AIDS YES
+6397 Gcdjumnmhawf Npwzx Russia 96 AIDS YES 24-07-2020
+1205 Cpqqmxn Mhzizrbo France 117 PLAGUE YES 11-01-2020
+8882 Yysrjt Bubdroqz France 51 GONORRHOEA YES 16-04-2020
+8882 Yysrjt Bubdroqz France 51 MEASLES YES 13-10-2020
+2734 Ekjy Trc Japan 51 HEPATITIS-B NO
+2734 Ekjy Trc Japan 51 H1N1 YES 10-09-2020
+3846 Wczpbqfaakqk Wajphuvdie UK 114 CHOLERA YES
+675 Pgnnzpspzdzm Ogohwvkexbqa Italy 29 MEASLES NO 06-08-2020
+675 Pgnnzpspzdzm Ogohwvkexbqa Italy 29 HEPATITIS-A YES 23-04-2020
+675 Pgnnzpspzdzm Ogohwvkexbqa Italy 29 COVID-19 YES 08-04-2020
+675 Pgnnzpspzdzm Ogohwvkexbqa Italy 29 H1N1 YES
+6236 Xzdbkpmztlhr Hqs UK 42 SYPHILIS YES
+367 Hqzxnkrrm Iaaahfdmtd India 40 EBOLA YES 02-06-2020
+6602 Zvrpelrdp Sruttmjnezcm France 29 MALARIA NO
+6602 Zvrpelrdp Sruttmjnezcm France 29 SARS-1 NO 08-03-2020
+6602 Zvrpelrdp Sruttmjnezcm France 29 COVID-19 YES 21-12-2020
+1543 Tahwqap Agy Russia 102 HEPATITIS-C YES
+4170 Grcjky Kqjogswud Italy 109 SMALLPOX NO 05-07-2020
+7619 Ydiimuqv Bczethxbv Italy 46 PLAGUE NO 29-06-2020
+7619 Ydiimuqv Bczethxbv Italy 46 HEPATITIS-B YES 07-09-2020
+7619 Ydiimuqv Bczethxbv Italy 46 MALARIA NO 21-10-2020
+7619 Ydiimuqv Bczethxbv Italy 46 PLAGUE NO 10-12-2020
+7619 Ydiimuqv Bczethxbv Italy 46 HEPATITIS-A YES 11-07-2020
+7619 Ydiimuqv Bczethxbv Italy 46 EBOLA YES
+2295 Lxhpzzxfxaq Bazp China 29 COVID-19 YES
+9944 Jrg Wfpk UK 101 FLU YES
+982 Hskslxwtpzhj Bbw UK 116 H1N1 NO
+982 Hskslxwtpzhj Bbw UK 116 SMALLPOX YES 12-09-2020
+982 Hskslxwtpzhj Bbw UK 116 FLU YES 17-04-2020
+982 Hskslxwtpzhj Bbw UK 116 EBOLA NO 18-11-2020
+5630 Rfilinpd Ypu China 29 HEPATITIS-B YES
+1738 Udroov Dpzopv India 19 POLIO YES
+1738 Udroov Dpzopv India 19 HEPATITIS-C NO
+1738 Udroov Dpzopv India 19 SMALLPOX YES
+1738 Udroov Dpzopv India 19 SARS-1 NO
+1738 Udroov Dpzopv India 19 SARS-1 NO 03-04-2020
+1738 Udroov Dpzopv India 19 SMALLPOX NO 08-09-2020
+1738 Udroov Dpzopv India 19 COVID-19 YES 24-06-2020
+3857 Vxuu Kcruwuyzyhyx Italy 84 POLIO NO 26-10-2020
+3857 Vxuu Kcruwuyzyhyx Italy 84 MALARIA NO 29-03-2020
+1966 Okujywadbe Ytrhcvv UK 116 MALARIA NO
+1966 Okujywadbe Ytrhcvv UK 116 EBOLA NO
+1966 Okujywadbe Ytrhcvv UK 116 CHOLERA NO 10-04-2020
+1966 Okujywadbe Ytrhcvv UK 116 HEPATITIS-C YES
+9766 Ikdpjkoynb Bgsrdynriadj USA 104 CHOLERA YES
+4209 Geroa Wrceeum USA 90 PLAGUE NO
+4209 Geroa Wrceeum USA 90 CHOLERA YES
+4209 Geroa Wrceeum USA 90 AIDS YES 25-07-2020
+4209 Geroa Wrceeum USA 90 SARS-1 YES 02-01-2020
+8377 Guotgorfsnv Wkolcvt Russia 37 GONORRHOEA NO 10-03-2020
+8377 Guotgorfsnv Wkolcvt Russia 37 GONORRHOEA NO
+8377 Guotgorfsnv Wkolcvt Russia 37 HEPATITIS-A YES
+5348 Kstvmh Ocnwylknhiy India 91 FLU NO 26-07-2020
+9458 Klazyf Bwoolpfrkb France 59 AIDS YES
+4507 Njf Axvkai Canada 50 H1N1 NO 24-08-2020
+4507 Njf Axvkai Canada 50 FLU NO
+4507 Njf Axvkai Canada 50 SYPHILIS NO 07-02-2020
+2987 Hrhttw Tgi Italy 77 EBOLA NO 08-09-2020
+3172 Mvqeaie Hiwncqjc Japan 27 MALARIA NO 04-03-2020
+3172 Mvqeaie Hiwncqjc Japan 27 AIDS NO 21-11-2020
+3172 Mvqeaie Hiwncqjc Japan 27 POLIO NO
+584 Vpxo Fguymql China 0 MALARIA NO
+584 Vpxo Fguymql China 0 SARS-1 YES
+584 Vpxo Fguymql China 0 MEASLES NO
+584 Vpxo Fguymql China 0 POLIO YES 18-01-2020
+3916 Tvrawb Rgollqtq China 107 COVID-19 YES 14-06-2020
+3195 Jwyhy Rrtcpwyols China 46 MEASLES YES
+2503 Ufbguw Lflzv Canada 73 HEPATITIS-C NO 09-04-2020
+2503 Ufbguw Lflzv Canada 73 SMALLPOX YES 30-11-2020
+225 Rztldgwsna Wtr France 106 GONORRHOEA NO 12-07-2020
+225 Rztldgwsna Wtr France 106 AIDS NO 23-09-2020
+225 Rztldgwsna Wtr France 106 CHLAMYDIA YES 15-07-2020
+225 Rztldgwsna Wtr France 106 EBOLA YES 27-02-2020
+69 Znmfxwulbdyi Ufuuknmupri Canada 51 HEPATITIS-A YES 30-08-2020
+69 Znmfxwulbdyi Ufuuknmupri Canada 51 AIDS NO 23-06-2020
+3532 Wqcrfdue Ufxa USA 110 HEPATITIS-B YES 07-10-2020
+3532 Wqcrfdue Ufxa USA 110 SMALLPOX NO
+3532 Wqcrfdue Ufxa USA 110 POLIO NO
+3532 Wqcrfdue Ufxa USA 110 SARS-1 YES
+4052 Pworwllx Kmlyumhdl UK 76 CHOLERA YES
+4052 Pworwllx Kmlyumhdl UK 76 H1N1 YES 07-08-2020
+4052 Pworwllx Kmlyumhdl UK 76 MEASLES YES 15-05-2020
+11 Byst Hfb Russia 5 COVID-19 NO
+11 Byst Hfb Russia 5 H1N1 NO
+9510 Iuv Kaeb India 46 HEPATITIS-C YES
+5410 Ijwu Ccqx Russia 79 SMALLPOX YES 13-03-2020
+5410 Ijwu Ccqx Russia 79 MEASLES YES
+5410 Ijwu Ccqx Russia 79 CHOLERA NO
+2227 Zmiuqf Vivw India 76 FLU NO 15-01-2020
+1286 Qyex Kry Canada 105 CHOLERA YES
+901 Hqsgtskg Ywnsdvqhx UK 96 MEASLES NO 04-05-2020
+901 Hqsgtskg Ywnsdvqhx UK 96 MALARIA YES
+2786 Oyqmixayn Jwbwcoxmsxbb Canada 1 EBOLA NO 21-08-2020
+2786 Oyqmixayn Jwbwcoxmsxbb Canada 1 SARS-1 YES 03-05-2020
+2813 Glcm Pcdi USA 42 HEPATITIS-A NO 21-11-2020
+2813 Glcm Pcdi USA 42 HEPATITIS-A NO 10-07-2020
+2813 Glcm Pcdi USA 42 MEASLES NO 08-05-2020
+2813 Glcm Pcdi USA 42 COVID-19 YES
+2813 Glcm Pcdi USA 42 MEASLES NO 08-04-2020
+2813 Glcm Pcdi USA 42 POLIO YES
+143 Mns Egausi Canada 29 EBOLA YES 29-11-2020
+143 Mns Egausi Canada 29 HEPATITIS-A NO 21-04-2020
+1475 Mzbhhbpjy Iwouly Italy 25 PLAGUE YES 28-02-2020
+1475 Mzbhhbpjy Iwouly Italy 25 PLAGUE YES 09-12-2020
+1218 Smgevwi Onrptpl Russia 39 POLIO YES
+9950 Isuuxnu Vvguxdxddaex Japan 107 CHOLERA YES 30-06-2020
+819 Hzftaj Nmvqm USA 43 CHLAMYDIA NO
+3771 Bdoyeaekygi Rqinoxdjfwd USA 2 COVID-19 YES 21-01-2020
+3771 Bdoyeaekygi Rqinoxdjfwd USA 2 H1N1 NO
+3771 Bdoyeaekygi Rqinoxdjfwd USA 2 MALARIA YES
+3771 Bdoyeaekygi Rqinoxdjfwd USA 2 CHOLERA YES
+8183 Ptmewwkehe Czul Italy 20 HEPATITIS-C YES
+8183 Ptmewwkehe Czul Italy 20 SARS-1 NO 17-09-2020
+5246 Igwplvrqqx Nztfmvhi UK 8 MALARIA YES 10-11-2020
+5565 Syfgxhgvb Iyrtybdcejnn France 45 FLU NO 01-02-2020
+2571 Gwtsfrjeak Ucjqalsrz UK 52 MALARIA NO
+2571 Gwtsfrjeak Ucjqalsrz UK 52 MEASLES YES 21-07-2020
+2571 Gwtsfrjeak Ucjqalsrz UK 52 MEASLES NO
+2571 Gwtsfrjeak Ucjqalsrz UK 52 AIDS YES 06-01-2020
+7105 Litvljghya Mqkb Russia 119 FLU NO 05-04-2020
+7105 Litvljghya Mqkb Russia 119 PLAGUE NO 08-08-2020
+3276 Htzezijjhscd Mcsrnotybns Italy 119 COVID-19 YES
+3276 Htzezijjhscd Mcsrnotybns Italy 119 MEASLES NO
+7422 Igrma Jfedmqjuxsd France 90 AIDS NO 13-05-2020
+7422 Igrma Jfedmqjuxsd France 90 FLU YES 13-06-2020
+7422 Igrma Jfedmqjuxsd France 90 HEPATITIS-C NO
+1448 Nxijnplsspre Qyycmr India 90 SMALLPOX YES 01-05-2020
+4561 Gosksp Fnpkrtuci France 0 POLIO NO 09-03-2020
+241 Fiprwsu Cbvspijenkbl USA 19 EBOLA NO
+790 Adfjorta Vfxefwfgnpc Japan 58 SYPHILIS NO 15-10-2020
+790 Adfjorta Vfxefwfgnpc Japan 58 SMALLPOX YES
+790 Adfjorta Vfxefwfgnpc Japan 58 COVID-19 YES
+790 Adfjorta Vfxefwfgnpc Japan 58 MALARIA NO
+790 Adfjorta Vfxefwfgnpc Japan 58 SMALLPOX NO
+790 Adfjorta Vfxefwfgnpc Japan 58 PLAGUE NO 25-11-2020
+8709 Jkrk Ppluygbvotfn UK 52 MEASLES NO 07-10-2020
+2937 Lrrnrqe Vuwtjvpph Canada 8 POLIO NO
+9088 Ovnuasptjicl Hpi Italy 115 HEPATITIS-C YES
+9088 Ovnuasptjicl Hpi Italy 115 POLIO NO
+5142 Ofcvawilflyx Vbejqush Italy 46 HEPATITIS-B YES
+8666 Nuwgukrtonz Buyl Italy 8 FLU NO
+8666 Nuwgukrtonz Buyl Italy 8 AIDS NO 01-09-2020
+8666 Nuwgukrtonz Buyl Italy 8 HEPATITIS-B NO 02-05-2020
+8666 Nuwgukrtonz Buyl Italy 8 FLU YES
+744 Typky Mrfodlyhb USA 66 HEPATITIS-B YES
+1404 Spnqwbg Ofyucwwmwlmh Japan 50 PLAGUE NO
+1991 Rmjddlxv Pygvgpks UK 24 CHLAMYDIA YES 26-08-2020
+1901 Akprksuteq Uoxyoh India 52 FLU YES
+325 Txsin Icxpc France 39 HEPATITIS-C YES
+8418 Gwojbjwg Htjuk Russia 104 GONORRHOEA YES
+8418 Gwojbjwg Htjuk Russia 104 AIDS YES 23-01-2020
+2833 Ecfqird Xatzvaggjp Canada 92 AIDS NO 10-11-2020
+3486 Lmbfi Xkziso Italy 47 MEASLES NO
+3486 Lmbfi Xkziso Italy 47 AIDS YES 28-09-2020
+3486 Lmbfi Xkziso Italy 47 SYPHILIS NO 22-03-2020
+3486 Lmbfi Xkziso Italy 47 HEPATITIS-A YES
+3486 Lmbfi Xkziso Italy 47 FLU NO
+3486 Lmbfi Xkziso Italy 47 CHLAMYDIA YES
+3095 Jypu Naipntzgwz France 77 PLAGUE NO 07-05-2020
+3095 Jypu Naipntzgwz France 77 CHLAMYDIA NO 29-09-2020
+3095 Jypu Naipntzgwz France 77 SMALLPOX YES
+3095 Jypu Naipntzgwz France 77 H1N1 NO 26-10-2020
+3095 Jypu Naipntzgwz France 77 CHLAMYDIA NO
+3095 Jypu Naipntzgwz France 77 EBOLA NO
+3095 Jypu Naipntzgwz France 77 POLIO NO
+3095 Jypu Naipntzgwz France 77 COVID-19 NO 20-02-2020
+2713 Vnm Gacsiguwxz China 24 SMALLPOX NO
+120 Trhmtu Ylgfmuhrhty Italy 0 PLAGUE YES
+120 Trhmtu Ylgfmuhrhty Italy 0 AIDS NO
+120 Trhmtu Ylgfmuhrhty Italy 0 MALARIA NO
+6957 Qieedfyzd Qpowbl France 51 CHLAMYDIA YES
+6957 Qieedfyzd Qpowbl France 51 HEPATITIS-A NO 25-08-2020
+9298 Wfyn Jdsfeuy India 23 HEPATITIS-C NO 07-12-2020
+785 Myfjdjik Lwmtkbzx UK 119 HEPATITIS-C NO 12-10-2020
+785 Myfjdjik Lwmtkbzx UK 119 H1N1 NO 13-08-2020
+785 Myfjdjik Lwmtkbzx UK 119 HEPATITIS-B NO 29-06-2020
+785 Myfjdjik Lwmtkbzx UK 119 CHLAMYDIA YES
+785 Myfjdjik Lwmtkbzx UK 119 CHOLERA YES 05-05-2020
+7229 Fgl Rsaqoriekhsp France 5 FLU NO 27-09-2020
+7229 Fgl Rsaqoriekhsp France 5 COVID-19 NO 15-05-2020
+7229 Fgl Rsaqoriekhsp France 5 SMALLPOX YES 16-02-2020
+7229 Fgl Rsaqoriekhsp France 5 HEPATITIS-B YES 24-10-2020
+7229 Fgl Rsaqoriekhsp France 5 CHLAMYDIA NO 24-05-2020
+7229 Fgl Rsaqoriekhsp France 5 MALARIA YES 28-01-2020
+7970 Flbwnfqia Tuwqdwtjqt Italy 59 H1N1 YES 19-12-2020
+7970 Flbwnfqia Tuwqdwtjqt Italy 59 PLAGUE NO
+7970 Flbwnfqia Tuwqdwtjqt Italy 59 PLAGUE NO 30-07-2020
+7770 Vjpgjkr Mbjwdgrgn France 96 COVID-19 NO
+7770 Vjpgjkr Mbjwdgrgn France 96 PLAGUE YES
+7770 Vjpgjkr Mbjwdgrgn France 96 CHOLERA NO
+7770 Vjpgjkr Mbjwdgrgn France 96 HEPATITIS-C NO 04-01-2020
+7770 Vjpgjkr Mbjwdgrgn France 96 EBOLA YES
+6026 Wmr Bdhvij USA 93 CHOLERA NO
+6026 Wmr Bdhvij USA 93 GONORRHOEA NO
+2644 Gtrushnu Ogvbstwnhzp Russia 13 FLU YES
+2644 Gtrushnu Ogvbstwnhzp Russia 13 COVID-19 YES 05-12-2020
+1239 Upnupcuhj Oerrbots Italy 21 EBOLA NO
+1239 Upnupcuhj Oerrbots Italy 21 POLIO YES
+1239 Upnupcuhj Oerrbots Italy 21 PLAGUE NO
+1239 Upnupcuhj Oerrbots Italy 21 CHOLERA YES 23-01-2020
+1239 Upnupcuhj Oerrbots Italy 21 SYPHILIS YES 30-12-2020
+9857 Eyrucvwlmew Xltyrkizk France 112 H1N1 NO 03-11-2020
+9857 Eyrucvwlmew Xltyrkizk France 112 SARS-1 NO
+7754 Aonhassknhmc Vmcwuylqddkx France 117 EBOLA YES
+7754 Aonhassknhmc Vmcwuylqddkx France 117 EBOLA NO 29-02-2020
+7754 Aonhassknhmc Vmcwuylqddkx France 117 AIDS NO
+6179 Wpodhk Ifhnikyreagf Canada 53 SARS-1 NO 16-12-2020
+8383 Tesybgzqbq Feidhp Italy 47 PLAGUE YES
+7521 Yiymgrfjoike Stj USA 98 SYPHILIS YES 02-12-2020
+2514 Izkpv Eilpfap Japan 43 COVID-19 YES 21-08-2020
+4750 Gtaphhxwik Kyesqpktdubs Russia 120 HEPATITIS-C NO 25-05-2020
+4750 Gtaphhxwik Kyesqpktdubs Russia 120 GONORRHOEA YES 23-09-2020
+1736 Ycqyigcx Vvw Italy 96 SMALLPOX NO
+3515 Hbsxlfqlq Odrasotuhq Canada 2 HEPATITIS-A YES
+3515 Hbsxlfqlq Odrasotuhq Canada 2 COVID-19 NO 06-09-2020
+3515 Hbsxlfqlq Odrasotuhq Canada 2 POLIO YES
+3515 Hbsxlfqlq Odrasotuhq Canada 2 SMALLPOX YES 15-09-2020
+2945 Tnv Nbhau Russia 81 MALARIA NO
+2945 Tnv Nbhau Russia 81 FLU NO
+2945 Tnv Nbhau Russia 81 PLAGUE NO 04-05-2020
+705 Usnaemabysah Lxschxmnmq Canada 4 PLAGUE YES 26-06-2020
+705 Usnaemabysah Lxschxmnmq Canada 4 CHOLERA YES 18-06-2020
+705 Usnaemabysah Lxschxmnmq Canada 4 PLAGUE YES
+705 Usnaemabysah Lxschxmnmq Canada 4 CHOLERA NO 13-05-2020
+3775 Xfzjjsibaeoq Qohkrcnevxk China 37 FLU NO 17-01-2020
+3775 Xfzjjsibaeoq Qohkrcnevxk China 37 MEASLES YES
+4480 Dzjqukr Pzkb USA 50 MALARIA NO
+6554 Qqofjzzcxpp Miopks India 7 MALARIA YES
+1025 Cywaawmned Rmgwgp Japan 73 GONORRHOEA NO 12-11-2020
+2266 Lmalfgskhxa Idjezdu USA 21 CHLAMYDIA YES 28-01-2020
+2266 Lmalfgskhxa Idjezdu USA 21 HEPATITIS-B NO
+2266 Lmalfgskhxa Idjezdu USA 21 GONORRHOEA NO
+9456 Wymqw Gjrc Italy 31 SYPHILIS NO
+9456 Wymqw Gjrc Italy 31 POLIO YES 17-05-2020
+9456 Wymqw Gjrc Italy 31 GONORRHOEA NO 13-02-2020
+5465 Zawismya Pydoqbseyeyp Russia 1 EBOLA YES
+8989 Epwaenvkmyo Ffdrdigpyjxr Italy 80 CHOLERA NO
+304 Wsymhlpzbr Ogpguunlnj Japan 53 FLU YES 22-11-2020
+8013 Dgrsxdzcn Dpxdty USA 26 CHLAMYDIA NO 21-06-2020
+8013 Dgrsxdzcn Dpxdty USA 26 EBOLA YES 10-10-2020
+3009 Aldp Busv Canada 78 HEPATITIS-B NO 29-10-2020
+3009 Aldp Busv Canada 78 AIDS YES
+3009 Aldp Busv Canada 78 CHLAMYDIA NO 07-02-2020
+3009 Aldp Busv Canada 78 SARS-1 YES
